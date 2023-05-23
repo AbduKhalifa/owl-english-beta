@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d5ef6390.css",
+    "main.js": "./static/js/main.9ece7570.js",
+    "static/js/787.9ff709e1.chunk.js": "./static/js/787.9ff709e1.chunk.js",
+    "static/media/myVocab.jpg": "./static/media/myVocab.6296562d594e9f16b0a0.jpg",
+    "static/media/gremmer.jpg": "./static/media/gremmer.8f48b7982ed0b497511d.jpg",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/a4esl.png": "./static/media/a4esl.c33766dce6ef08bdddae.png",
+    "static/media/techer.jpg": "./static/media/techer.554b7eed39f60b777915.jpg",
+    "static/media/secondBook.jpg": "./static/media/secondBook.63625fc6d2cfa869ec6b.jpg",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/Business-English-Pod.png": "./static/media/Business-English-Pod.110a3e49c6578c7b2403.png",
+    "static/media/vocab.jpg": "./static/media/vocab.db8bf62249869fb7a1aa.jpg",
+    "static/media/articles.jpg": "./static/media/articles.4f9bb33f55eca8bfcf0c.jpg",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/Emc.png": "./static/media/Emc.10b43e5fe32d5eb8d733.png",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/thirdBook.jpg": "./static/media/thirdBook.6bf0f402fb87f70e1380.jpg",
+    "static/media/msg2.png": "./static/media/msg2.23b4d0b32f8c4c41bd1f.png",
+    "static/media/sorry-face.png": "./static/media/sorry-face.f03d9c0b54c111f4d4a9.png",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/students.png": "./static/media/students.6c280941de32ebb8d41c.png",
+    "static/media/error-notfound.png": "./static/media/error-notfound.c9222a1028f127af0664.png",
+    "static/media/voa-english.jpg": "./static/media/voa-english.0543a9a8b2df40f74562.jpg",
+    "static/media/Owl-logo.png": "./static/media/Owl-logo.ad177ab7b59488ae08bc.png",
+    "static/media/student.png": "./static/media/student.7f8d53850d99e26a406e.png",
+    "static/media/doulingo.png": "./static/media/doulingo.4347921b9c6776ca2ccf.png",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "./index.html",
+    "main.d5ef6390.css.map": "./static/css/main.d5ef6390.css.map",
+    "main.9ece7570.js.map": "./static/js/main.9ece7570.js.map",
+    "787.9ff709e1.chunk.js.map": "./static/js/787.9ff709e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5ef6390.css",
+    "static/js/main.9ece7570.js"
+  ]
+}
